@@ -10,7 +10,7 @@
 | 03 | [03-type-casting.py](03-type-casting.py) | 練習型別轉換（int/float/str/bool） |
 | 04 | [04-energy-message-game.py](04-energy-message-game.py) | 能量互動填空遊戲 ✨（文字引導＋情境生成）
 | 05 | [05-calculate-energy-space.py](05-calculate-energy-space.py) | 能量修復空間計算（面積邏輯 × 深呼吸 × 放空時間）
-| 06 | [06-shopping-cart.py](06-shopping-cart.py) | 購物車程式（商品名稱 × 單價 × 數量 = 總金額）
+| 06 | [06-simple-shopping-cart.py](06-simple-shopping-cart.py) | 購物車程式（商品名稱 × 單價 × 數量 = 總金額）
 
 ## 🔨 目標作品（預計開發）✨👩🏻‍💻
 
