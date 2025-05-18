@@ -1,24 +1,25 @@
-# 🐱01-Cat Interaction Game🐾（貓咪互動遊戲）
+# Yuni 的 Python 學習紀錄倉庫
+這是我從零開始學習 Python 的實作歷程，目標是兩個月完成獨立作品與小型網頁互動功能。
+---
+## ✅ 練習作品列表
 
-This is my very first mini game written in Python.  
-The main character is my cat “Pang Pang” (胖胖) meow~  
-The game includes: name input, character dialogue, and conditional branching.  
-It’s a tiny script infused with the soul of my cat!
+| 編號 | 檔案名稱 | 說明 |
+|------|-----------|------|
+| 01 | [cat.py](cat.py) | 猫咪互動遊戲（條件判斷 + 輸入對話） |
+| 02 | [02-type-checking.py](02-type-checking.py) | 練習變數型別 + f-string 輸出 |
+| 03 | [03-type-casting.py](03-type-casting.py) | 練習型別轉換（int/float/str/bool） |
 
-## Features:
-- User name input
-- Warm greeting from Pang Pang
-- Conditional responses depending on whether you have a cat
-- Practice with variables, f-strings, input(), and if/else
+---
 
-# 貓咪互動遊戲（Cat Interaction Game）
+## ✨ 目標作品（預計開發）
 
-這是我第一個用 Python 編寫的小遊戲。主角是我的貓「胖胖」喵～
-遊戲包含：輸入名字、角色對話互動、條件分支等功能。
-這是一個帶著貓咪靈魂的小程式！
+- [ ] Flask 網頁版「今日能量訊息小測驗」
+- [ ] 能量訊息生成器（根據回答給建議）
+- [ ] Python 與前端基礎整合練習
 
-＃＃功能特色：
-輸入玩家名字
-與「胖胖」的互動對話
-養不養貓的「條件分支」
-變數、f-string、input 與 if/else實作
+---
+
+## 🐾 關於我
+
+> Hi, I'm Yuni, a self-taught creator learning Python with love, cats, and curiosity.  
+每段程式都有一點我的能量，一點胖胖和潤潤的靈魂。
