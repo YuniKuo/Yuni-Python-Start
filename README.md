@@ -21,5 +21,5 @@
 
 ## 🐾 關於我 🐱👩🏻‍💻
 
-> Hi, I'm Yuni — a self-taught creator learning Python with love, softness, and two little soul companions. 
-我相信，程式也可以是一種創作，一種與世界對話的方式。每個練習，都是走向自由生活的腳印.🐾🐈
+> Hi, I'm Yuni — a self-taught creator learning Python with love, softness and two little soul companions.
+我相信，程式也可以是一種創作，一種與世界對話的方式。每個練習，都是走向自由生活的小小腳印.🐾🐈
