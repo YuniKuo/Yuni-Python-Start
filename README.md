@@ -1,4 +1,4 @@
-# 🐱Cat Interaction Game🐾（貓咪互動遊戲）
+# 🐱01-Cat Interaction Game🐾（貓咪互動遊戲）
 
 This is my very first mini game written in Python.  
 The main character is my cat “Pang Pang” (胖胖) meow~  
