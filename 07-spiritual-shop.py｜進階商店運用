@@ -1,0 +1,21 @@
+products={
+    '黑曜石':300,
+    '白水晶':500,
+    '粉晶':327,
+    }
+
+items = input('請輸入你需要的商品~(黑曜石,白水晶,粉晶)').split(',')
+
+total = 0
+
+for item in items:
+    if item in products:
+        total += products[item]
+    else:
+        print(f" 我們沒有販賣 {item} 這個產品喔 ")
+if all (product in items for product in products):
+    print ('你購買了全套靈性組合，享有九折優惠')
+    total *= 0.9
+
+print(f"總金額為{round (total,2)}元")
+print ('謝謝你的購物～祝你有個美好的一天')
